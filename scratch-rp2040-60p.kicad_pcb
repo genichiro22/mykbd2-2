@@ -926,7 +926,7 @@
 
   (footprint "Resistor_SMD:R_0201_0603Metric" (layer "F.Cu")
     (tstamp 0b7d9de3-0710-4c95-89d4-59df00310a21)
-    (at 111.633125 51.378125)
+    (at 128.755 62.188125)
     (descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -1396,7 +1396,7 @@
 
   (footprint "Resistor_SMD:R_0201_0603Metric" (layer "F.Cu")
     (tstamp 15b38382-4c8a-47e3-a277-bf681e06c5bf)
-    (at 111.633125 54.878125)
+    (at 128.755 65.688125)
     (descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -3218,7 +3218,7 @@
 
   (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" (layer "F.Cu")
     (tstamp 2d949487-7214-4a3c-899b-c0bf6871a301)
-    (at 98.446875 62.15875)
+    (at 122.7125 137.2625)
     (descr "SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -3450,7 +3450,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp 3247eb10-06b0-40a8-8e29-d53ad47a8f23)
-    (at 106.733125 60.128125)
+    (at 123.855 70.938125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -3712,7 +3712,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 3530e4fb-e1d4-4621-8247-1da65e884109)
-    (at 102.506875 60.91875)
+    (at 119.62875 71.72875)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -3836,7 +3836,7 @@
 
   (footprint "RP2040_minimal:RP2040-QFN-56" (layer "F.Cu")
     (tstamp 3701f0f1-8269-4eb5-a9ec-6eb26e23787c)
-    (at 101.025 54.821875)
+    (at 121.621875 127.53125)
     (descr "QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
     (tags "QFN DFN_QFN")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -4804,7 +4804,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp 44cbd0ca-0f71-4210-9d08-80da252f0c0d)
-    (at 106.733125 58.378125)
+    (at 123.855 69.188125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -5506,7 +5506,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp 5502ec08-2026-4154-9b38-296a6b24d4e0)
-    (at 109.183125 56.628125)
+    (at 126.305 67.438125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -5730,7 +5730,7 @@
 
   (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" (layer "F.Cu")
     (tstamp 56932a05-2e59-4503-a3e7-1612893a361b)
-    (at 118.033125 63.968125)
+    (at 210.75625 71.91375)
     (descr "SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -6964,7 +6964,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp 63b1a734-43d6-49b0-bbdf-c14d247a60a5)
-    (at 109.183125 58.378125)
+    (at 126.305 69.188125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -7292,7 +7292,7 @@
 
   (footprint "Resistor_SMD:R_0201_0603Metric" (layer "F.Cu")
     (tstamp 6a031d5b-deaf-46cd-8b04-9348054227a0)
-    (at 111.633125 56.628125)
+    (at 128.755 67.438125)
     (descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -8868,7 +8868,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp 7fb134b7-f38c-4d57-89df-0f28bbde3eb7)
-    (at 109.183125 54.878125)
+    (at 126.305 65.688125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -10548,7 +10548,7 @@
 
   (footprint "Button_Switch_SMD:SW_SPDT_PCM12" (layer "F.Cu")
     (tstamp 992f660f-57dc-48f8-a5e0-a04c7b99f0cc)
-    (at 90.896875 61.86875)
+    (at 163.025 76.98)
     (descr "Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
     (property "Sheetname" "")
@@ -10746,7 +10746,7 @@
 
   (footprint "Resistor_SMD:R_0201_0603Metric" (layer "F.Cu")
     (tstamp 9d3b4f3d-b6e0-4078-b52d-2858176b319e)
-    (at 111.633125 53.128125)
+    (at 128.755 63.938125)
     (descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -10900,7 +10900,7 @@
 
   (footprint "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV" (layer "F.Cu")
     (tstamp a0b5a0a0-6cc3-41d3-a481-ad16a8b99bf7)
-    (at 118.703125 55.878125)
+    (at 109.525 79.65625 180)
     (descr "USB Type C, right-angle, SMT, https://datasheet.lcsc.com/lcsc/2204071530_G-Switch-GT-USB-7010ASV_C2988369.pdf")
     (tags "USB C Type-C Receptacle SMD")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -10947,43 +10947,43 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp c4ec8c90-0bcc-434a-b4d8-6df03ad17d44))
     (fp_line (start 4.47 3.675) (end 4.47 -3.675)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 96b1058a-0c0a-49ed-92d3-9a32deea88a7))
-    (pad "" np_thru_hole circle (at -2.89 -2.605) (size 0.65 0.65) (drill 0.65) (layers "*.Cu" "*.Mask") (tstamp 73e98d92-74cd-4dde-9a8d-c1f619834b72))
-    (pad "" np_thru_hole circle (at 2.89 -2.605) (size 0.65 0.65) (drill 0.65) (layers "*.Cu" "*.Mask") (tstamp 1cc64246-370e-4a82-bb48-487eb478cafb))
-    (pad "A1" smd rect (at -3.2 -3.725) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "" np_thru_hole circle (at -2.89 -2.605 180) (size 0.65 0.65) (drill 0.65) (layers "*.Cu" "*.Mask") (tstamp 73e98d92-74cd-4dde-9a8d-c1f619834b72))
+    (pad "" np_thru_hole circle (at 2.89 -2.605 180) (size 0.65 0.65) (drill 0.65) (layers "*.Cu" "*.Mask") (tstamp 1cc64246-370e-4a82-bb48-487eb478cafb))
+    (pad "A1" smd rect (at -3.2 -3.725 180) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "GND") (pintype "passive") (tstamp d1a7e690-5adb-4b29-b76e-771dc8c2353e))
-    (pad "A4" smd rect (at -2.4 -3.725) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "A4" smd rect (at -2.4 -3.725 180) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 6 "VBUS") (pinfunction "VBUS") (pintype "passive") (tstamp ab0ade21-ea68-4862-a5c6-e167624deb8a))
-    (pad "A5" smd rect (at -1.25 -3.725) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "A5" smd rect (at -1.25 -3.725 180) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 134 "Net-(P1-CC)") (pinfunction "CC") (pintype "bidirectional") (tstamp 2d01baff-c203-4d6c-b23a-b8bb3f0a9c56))
-    (pad "A6" smd rect (at -0.25 -3.725) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "A6" smd rect (at -0.25 -3.725 180) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 135 "USB_D+") (pinfunction "D+") (pintype "bidirectional") (tstamp cadc51e6-ea97-409b-81cc-4f859d7af55d))
-    (pad "A7" smd rect (at 0.25 -3.725) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "A7" smd rect (at 0.25 -3.725 180) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 136 "USB_D-") (pinfunction "D-") (pintype "bidirectional") (tstamp aacb45da-8289-4f0e-8395-630dd650a7a3))
-    (pad "A8" smd rect (at 1.25 -3.725) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ccbdf2a8-6e79-4d4a-94fe-91c5337bd9bb))
-    (pad "A9" smd rect (at 2.4 -3.725) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "A8" smd rect (at 1.25 -3.725 180) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ccbdf2a8-6e79-4d4a-94fe-91c5337bd9bb))
+    (pad "A9" smd rect (at 2.4 -3.725 180) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 6 "VBUS") (pinfunction "VBUS") (pintype "passive") (tstamp 256c019e-6983-46a5-ae71-4b1ac7e84152))
-    (pad "A12" smd rect (at 3.2 -3.725) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "A12" smd rect (at 3.2 -3.725 180) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "GND") (pintype "passive") (tstamp cf517d66-3386-438f-b035-b372701eb027))
-    (pad "B1" smd rect (at 3.2 -3.725) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "B1" smd rect (at 3.2 -3.725 180) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "GND") (pintype "passive") (tstamp 8d2655aa-bf46-4576-9b7c-4d02432b8cb4))
-    (pad "B4" smd rect (at 2.4 -3.725) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "B4" smd rect (at 2.4 -3.725 180) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 6 "VBUS") (pinfunction "VBUS") (pintype "passive") (tstamp 54bdb834-c543-4f4e-b43e-60aa9bbee065))
-    (pad "B5" smd rect (at 1.75 -3.725) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "B5" smd rect (at 1.75 -3.725 180) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 137 "unconnected-(P1-VCONN-PadB5)") (pinfunction "VCONN") (pintype "bidirectional+no_connect") (tstamp d3bd2912-7d1d-4cf8-827a-b29943dc575c))
-    (pad "B6" smd rect (at 0.75 -3.725) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp de5118ed-e8b7-49d2-9132-5a424c4ab001))
-    (pad "B7" smd rect (at -0.75 -3.725) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3e3fbe25-d598-4865-b966-3d0a921dbb8c))
-    (pad "B8" smd rect (at -1.75 -3.725) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cd82423b-1d16-474e-bc8a-164c9fb360b5))
-    (pad "B9" smd rect (at -2.4 -3.725) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "B6" smd rect (at 0.75 -3.725 180) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp de5118ed-e8b7-49d2-9132-5a424c4ab001))
+    (pad "B7" smd rect (at -0.75 -3.725 180) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3e3fbe25-d598-4865-b966-3d0a921dbb8c))
+    (pad "B8" smd rect (at -1.75 -3.725 180) (size 0.3 1.24) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cd82423b-1d16-474e-bc8a-164c9fb360b5))
+    (pad "B9" smd rect (at -2.4 -3.725 180) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 6 "VBUS") (pinfunction "VBUS") (pintype "passive") (tstamp 799d8644-e8d8-4b8f-9331-126522cacd86))
-    (pad "B12" smd rect (at -3.2 -3.725) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "B12" smd rect (at -3.2 -3.725 180) (size 0.6 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "GND") (pintype "passive") (tstamp 7209d4cf-5b75-4193-9444-e4ae6324ddf4))
-    (pad "S1" thru_hole oval (at -4.32 -3.125) (size 1 2.1) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask")
+    (pad "S1" thru_hole oval (at -4.32 -3.125 180) (size 1 2.1) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 40a77c46-4c39-4121-a165-5a7d62f6c2b0))
-    (pad "S1" thru_hole oval (at -4.32 1.075) (size 1 1.8) (drill oval 0.6 1.4) (layers "*.Cu" "*.Mask")
+    (pad "S1" thru_hole oval (at -4.32 1.075 180) (size 1 1.8) (drill oval 0.6 1.4) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 9eb8775e-c09a-41d3-89ce-087d5e509763))
-    (pad "S1" thru_hole oval (at 4.32 -3.125) (size 1 2.1) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask")
+    (pad "S1" thru_hole oval (at 4.32 -3.125 180) (size 1 2.1) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 7c333e89-9f31-4df1-8a75-f18bb0c921b8))
-    (pad "S1" thru_hole oval (at 4.32 1.075) (size 1 1.8) (drill oval 0.6 1.4) (layers "*.Cu" "*.Mask")
+    (pad "S1" thru_hole oval (at 4.32 1.075 180) (size 1 1.8) (drill oval 0.6 1.4) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 934e7f14-e486-4e26-a7ed-61e2091be9a5))
     (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_G-Switch_GT-USB-7010ASV.wrl"
       (offset (xyz 0 0 0))
@@ -11908,7 +11908,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp b22ab9bc-a12d-4327-9fcd-b2c0f15d0344)
-    (at 106.733125 61.878125)
+    (at 123.855 72.688125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -12176,7 +12176,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp b4912dff-5470-48c1-9035-d1ef0ac630c2)
-    (at 106.733125 56.628125)
+    (at 123.855 67.438125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -12330,7 +12330,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp b5048d3e-3372-4687-9dd9-b7658eaae844)
-    (at 106.733125 51.378125)
+    (at 123.855 62.188125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -13182,7 +13182,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp c11176ae-7422-4753-977d-1d631c3a28f6)
-    (at 106.733125 53.128125)
+    (at 123.855 63.938125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -13542,7 +13542,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp c7cae406-eece-452a-80d2-6329338a4336)
-    (at 109.183125 53.128125)
+    (at 126.305 63.938125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -13666,7 +13666,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp cb9a0eb5-4c24-4479-9e07-57fed0f4f30c)
-    (at 109.183125 61.878125)
+    (at 126.305 72.688125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -14418,7 +14418,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp df42461b-9467-45eb-995e-7657e518ef16)
-    (at 109.183125 51.378125)
+    (at 126.305 62.188125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -14470,7 +14470,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp e055cb95-9be2-4937-93fc-c9efa1cb991f)
-    (at 109.183125 60.128125)
+    (at 126.305 70.938125)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -16484,7 +16484,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp f69c9758-2279-4e33-862c-efb9fe7752f2)
-    (at 102.506875 62.88875)
+    (at 119.62875 73.69875)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -16538,7 +16538,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (layer "F.Cu")
     (tstamp f8199daf-de2e-40f9-bc09-f72c2eeaee4a)
-    (at 90.896875 54.76875)
+    (at 139.7125 78.58125)
     (descr "module CMS SOT223 4 pins")
     (tags "CMS SOT")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -16674,7 +16674,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp fb9d5c80-75cf-48bd-85af-c50f4ad347a8)
-    (at 106.733125 54.878125)
+    (at 120.585625 133.35)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "scratch-rp2040-60p.kicad_sch")
@@ -16868,4 +16868,166 @@
     )
   )
 
+  (group "" (id 2a950423-f7b8-43b1-961f-52428ab72697)
+    (members
+      407864bb-bb46-4684-9012-1be98d928ba5
+      b2ec7355-f386-4ba7-ab63-8636fe63f370
+    )
+  )
+  (group "" (id 2bb63539-aaf2-418b-8b9e-8d00879729c5)
+    (members
+      245a568e-be57-4e69-a31d-3487d4b9795b
+      a81f2308-f8c5-476d-9627-3316f2d7382d
+    )
+  )
+  (group "" (id 2f6413e7-d572-474e-ac74-c70b92df44c0)
+    (members
+      55454af3-200b-46c4-95e9-bfa76061b2c9
+      a2db6f62-e358-42b6-8649-8054b1a5ed72
+    )
+  )
+  (group "" (id 31ef7f78-7815-44c4-80fe-c2d1e0e6cd7a)
+    (members
+      85d2ce71-df55-48a7-a3f4-239c9dbb8fbd
+      8e108df9-97a7-435d-af6d-771b27387588
+    )
+  )
+  (group "" (id 3c56e54a-62ef-4617-b441-27f922004e3f)
+    (members
+      6f83f0ee-8ffe-4180-ba2d-1e49db94c15b
+      ed6561b0-4fa0-4924-965d-6086fb783555
+    )
+  )
+  (group "" (id 3e8b1d91-6d4b-4b8c-a734-744d3bd11d55)
+    (members
+      f4db1e49-7d7f-488d-ae14-6988c56504c3
+      f84cd96b-d307-4530-a3bb-bb5b4b4e46d0
+    )
+  )
+  (group "" (id 4c1ed82c-eefa-49ed-ac47-d8a276ebad57)
+    (members
+      203a1410-5e4f-4713-8a3f-4d90cc1a08a4
+      a9375c93-d7ba-4133-b91f-81063a97f27e
+    )
+  )
+  (group "" (id 4dff1a3d-2011-4fb1-b259-eb1f4a3ece85)
+    (members
+      1c5e324d-363f-4e12-a2f5-c101a208824e
+      5fa32108-e43e-4b01-8604-a6739dfd0810
+    )
+  )
+  (group "" (id 5f116797-52ef-4b86-803f-28975a9d1f1d)
+    (members
+      ad23f7db-b687-4efc-9dff-8c0fa6d4ba57
+      f6108a73-656e-4913-b1a7-36cd06101a25
+    )
+  )
+  (group "" (id 60124ed8-9ae5-4dc0-89ff-73d2efa03d56)
+    (members
+      03f3f8ba-159a-42cd-83c9-9550dce75488
+      42e617a3-d89f-4fce-bc6c-e53ea3105c46
+    )
+  )
+  (group "" (id 67e0ee8f-dc95-4e1c-b567-e6b778b773f6)
+    (members
+      1ec608b6-ef54-42e9-b166-3020072caf5c
+      ba9b0b44-2e5b-4cb5-a084-18157b8ce98a
+    )
+  )
+  (group "" (id 6d43aad5-1c91-414e-a937-f3482a2d6d9f)
+    (members
+      3a4784b7-c6a9-4233-8055-f56e92ff5b1c
+      59155ed9-b703-4002-8f62-3bfaa83c08dc
+    )
+  )
+  (group "" (id 6dc5fe5a-73ac-4e4d-bae4-7ef9bb0f45d5)
+    (members
+      72540b04-eb12-469f-8c7c-07aae2888294
+      c47ff407-fd81-424d-b9cc-f4fde76567f6
+    )
+  )
+  (group "" (id 9780cae7-1149-42bc-b471-ab7f9907a4f1)
+    (members
+      b1f1de5f-41f2-4cd0-86ae-ae3e4bcc565c
+      d040baa9-d788-41cd-aaad-aff5a0f2d82c
+    )
+  )
+  (group "" (id 9804c8aa-e9f4-42e9-9724-e5d653be732e)
+    (members
+      81075ab2-7dab-4c62-a6a7-3aee65f08e55
+      8773dc76-4010-4b11-a714-a1d88d691add
+    )
+  )
+  (group "" (id a24cba0e-2303-400f-9c7d-69facfc3422e)
+    (members
+      860d6fa1-06fd-4278-ba7c-71f873a60dda
+      e8300d8f-bad5-467c-9460-428ad5e80b01
+    )
+  )
+  (group "" (id ade165c0-c1c4-4dae-afea-d445c6c0ffba)
+    (members
+      b331c2ba-77fa-44ad-9048-dc15876168dd
+      e2ddea8e-ef13-456c-b702-8831cf04094a
+    )
+  )
+  (group "" (id ae05f586-14b5-46bd-a791-b28c34db6ba4)
+    (members
+      b701817a-6326-4dca-b25c-9d60906e42f4
+      c4aa25aa-a75d-4718-bc0e-a4cff5f88213
+    )
+  )
+  (group "" (id b1a2aba0-6f47-4c1d-918a-51be22ee44de)
+    (members
+      01c0e77a-e04f-4f7c-a068-82deac7c0ebd
+      62d437a4-2f17-4b00-a72c-6bbd9656af77
+    )
+  )
+  (group "" (id b37a67eb-a265-4b49-9d9c-d25e13e38238)
+    (members
+      51d02fb2-5ee0-40c8-87bc-44aee032fd96
+      d6e3a127-fdb5-4d2b-84b3-879d8ea0f485
+    )
+  )
+  (group "" (id b7cb929c-9b41-49b1-a3b0-027e9dc90788)
+    (members
+      72c8a06e-f8fe-4748-81cd-0c588c7c0df7
+      c5b0bea4-0a87-4599-957b-e6e0c2628bbb
+    )
+  )
+  (group "" (id beabba02-c3c6-4780-82ce-2e1f8961c094)
+    (members
+      0d7a72db-4803-4456-b636-78ec1132219c
+      64c64bd1-be11-47e9-9079-58629049427d
+    )
+  )
+  (group "" (id c3ab8b1a-3030-407a-ab74-b966b77c5f45)
+    (members
+      7517fa0e-c0a2-442b-9b05-d9069ae5c455
+      f3238172-c423-4afd-8f38-cd0f11a413db
+    )
+  )
+  (group "" (id dfe556a2-83b9-4de7-8a1b-08fe6abe1739)
+    (members
+      716e2bf2-5448-4c5c-a4b9-bf7d71282933
+      fbf175c5-1322-45c2-afc2-58cae9892215
+    )
+  )
+  (group "" (id e00723c7-eaae-463c-9533-1ee17392583d)
+    (members
+      1a33b5fe-cb7a-4002-b9a1-0bcf5939ddd2
+      56a81e26-1c9b-48fe-930c-28b7a88459ac
+    )
+  )
+  (group "" (id f8272bce-16f6-4851-bc3b-e07b3e767b24)
+    (members
+      2169094b-3221-4ae8-8581-17baa7b8e8a0
+      bcd3b96c-f2a8-44c5-80ec-91645c0a4956
+    )
+  )
+  (group "" (id fd420c89-c2e2-4a73-a487-e1c0424b97a3)
+    (members
+      17042651-b252-42cc-80f3-bc93ab311c31
+      6ab4a120-93be-44b9-9a40-9af2e07dd757
+    )
+  )
 )
